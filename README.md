@@ -4,7 +4,7 @@
 
 ## 🌐 Live Documentation
 
-Visit the documentation at: **https://yourusername.github.io/faltubaat-documentation**
+Visit the documentation at: **https://cybercoolie.github.io/faltubaatdocs**
 
 ## 🚀 Quick Start
 
@@ -17,8 +17,8 @@ Simply visit the GitHub Pages URL above to browse the documentation.
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/faltubaat-documentation.git
-   cd faltubaat-documentation
+   git clone https://github.com/cybercoolie/faltubaatdocs.git
+   cd faltubaatdocs
    ```
 
 3. **Install dependencies**:
@@ -31,12 +31,12 @@ Simply visit the GitHub Pages URL above to browse the documentation.
    bundle exec jekyll serve
    ```
 
-5. **Open in browser**: http://localhost:4000/faltubaat-documentation/
+5. **Open in browser**: http://localhost:4000/faltubaatdocs/
 
 ## 📁 Structure
 
 ```
-faltubaat-documentation/
+faltubaatdocs/
 ├── _config.yml          # Jekyll configuration
 ├── index.md             # Home page
 ├── docs/
