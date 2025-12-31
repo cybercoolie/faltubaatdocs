@@ -162,7 +162,7 @@ faltubaat/
 
 ```bash
 # Clone the repository
-git clone https://github.com/faltubaatdeploy/faltubaat.git
+git clone https://github.com/cybercoolie/faltubaatdeploy.git
 
 # Run with Docker Compose
 cd faltubaatdeploy/deploy/docker/single-container
@@ -268,3 +268,4 @@ If you encounter issues:
 ---
 
 **Made with ❤️ by FaltuBaat Team**
+
