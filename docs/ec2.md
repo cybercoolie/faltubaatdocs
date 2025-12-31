@@ -155,7 +155,8 @@ rsync -avz -e "ssh -i your-key.pem" ./ ec2-user@your-ec2-ip:~/faltubaat/
 #### Step 3: Run Installation
 
 ```bash
-cd ~/faltubaat/deploy/ec2/single-ec2
+git clone https://github.com/faltubaatdeploy/faltubaat.git 
+cd faltubaat/deploy/ec2/single-ec2
 chmod +x *.sh
 sudo ./ec2-install.sh
 ```
@@ -272,7 +273,8 @@ ssh -i your-key.pem ec2-user@APP_PUBLIC_IP
 scp -i your-key.pem -r ./* ec2-user@APP_PUBLIC_IP:~/faltubaat/
 
 # Run installation
-cd ~/faltubaat/deploy/ec2/multi-ec2
+git clone https://github.com/faltubaatdeploy/faltubaat.git
+cd faltubaat/deploy/ec2/multi-ec2
 chmod +x *.sh
 sudo ./install-app-server.sh
 
@@ -610,3 +612,4 @@ sudo systemctl daemon-reload
 - [ECS Single Container](../ecs-single/) - AWS ECS single container
 - [ECS Multi Container](../ecs-multi/) - AWS ECS multi container
 - [EKS Deployment](../eks/) - Kubernetes deployment
+
