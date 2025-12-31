@@ -23,13 +23,6 @@ search:
   rel_url: true
   button: false
 
-# Aux links (top right navigation)
-aux_links:
-  "View on GitHub":
-    - "https://github.com/cybercoolie/faltubaat-documentation"
-
-aux_links_new_tab: true
-
 # Footer
 footer_content: "Made with ❤️ by FaltuBaat Team. Distributed under the MIT License."
 

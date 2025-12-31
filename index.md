@@ -12,8 +12,7 @@ permalink: /
 Real-time chat application with video calling and live streaming capabilities.
 {: .fs-6 .fw-300 }
 
-[Get Started]({{ site.baseurl }}/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/yourusername/faltubaat){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get Started]({{ site.baseurl }}/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
