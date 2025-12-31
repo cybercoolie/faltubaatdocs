@@ -6,6 +6,13 @@ url: "https://cybercoolie.github.io"
 # Theme
 remote_theme: just-the-docs/just-the-docs
 
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
+
 # Color scheme
 color_scheme: dark
 
